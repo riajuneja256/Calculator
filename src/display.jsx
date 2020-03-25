@@ -7,7 +7,7 @@ class Display extends Component{
         return(
             <React.Fragment>
                 <div className="Display row container mar_10" style={{ marginBottom: 0 }}>
-                <div  id="display" className="common_style right-align col s4 push-s4 padding_0 display">
+                <div  id="display" className="common_style right-align col l4 m8 s12 push-l4 push-m2 padding_0 display">
                     <input
                         className="right-align display"
                         type="text"
